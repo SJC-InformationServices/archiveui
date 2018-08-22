@@ -1,1 +1,4 @@
 vendor
+modules/system
+modules/cms
+modules/backend
