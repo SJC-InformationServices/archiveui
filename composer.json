@@ -1,0 +1,14 @@
+{
+    "name":"SJC Archive UI and Api",
+    "description": "A Simple GUI base ORM, backend as a service",
+    "require": {
+        "monolog/monolog": "^1.23",
+        "lcobucci/jwt": "^3.2",
+        "twig/twig": "2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "sjcArchive\\":"\\src\\sjcArchive\\"
+        }
+    }
+}
